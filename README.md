@@ -91,9 +91,6 @@ Bot: "Dizziness may indicate dehydration or low blood pressure.
 ## ⚠️ Disclaimer
 This chatbot is designed for informational purposes only and should not replace professional medical advice. Always consult healthcare professionals for medical concerns.
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 M V N Sandeep Naidu
 
